@@ -1,0 +1,11 @@
+   # CLion / JetBrains editor settings
+   .idea/
+
+   # Build output
+   cmake-build-*/
+   build/
+
+   # Compiled programs
+   *.exe
+   *.out
+   *.o
